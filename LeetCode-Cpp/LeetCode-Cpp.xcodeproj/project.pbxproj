@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		20740B4C274A93C1005336F2 /* LeetCode-Cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "LeetCode-Cpp"; sourceTree = BUILT_PRODUCTS_DIR; };
 		20740B4F274A93C1005336F2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		20740B87274AB497005336F2 /* catch.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = catch.hpp; sourceTree = "<group>"; };
+		20740B88274AB4F4005336F2 /* Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Solution.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				20740B4F274A93C1005336F2 /* main.cpp */,
+				20740B88274AB4F4005336F2 /* Solution.cpp */,
+				20740B87274AB497005336F2 /* catch.hpp */,
 			);
 			path = "LeetCode-Cpp";
 			sourceTree = "<group>";
