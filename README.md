@@ -1,1 +1,1 @@
-# LeetCode-C-
+# LeetCode C++
